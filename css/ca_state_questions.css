@@ -1,0 +1,19 @@
+/* CA  State Questions Simple CSS */
+  /* List Template One */
+	#ca-state-questions-template-one .views-field-field-ca-state-questions-image-fid {float: left; margin-right: 10px;}
+  #ca-state-questions-template-one .views-field-teaser .field-content > p {margin-top: 0;}
+  #ca-state-questions-template-one .views-field-view-node {float: right; margin-right: 10px;}
+  #ca-state-questions-template-one .views-field-nothing {clear: both; margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #D2D2D2;}
+  #ca-state-questions-template-one .views-row-last .views-field-nothing {border: none;}
+	
+  /* List Template Two */
+	#ca-state-questions-template-two .views-field-field-ca-state-questions-image-fid {float: left; margin-right: 5px;}
+  #ca-state-questions-template-two .views-field-teaser .field-content > p {margin-top: 0;}
+  #ca-state-questions-template-two .views-field-view-node {float: right; margin-right: 10px;}
+  #ca-state-questions-template-two .views-field-nothing {clear: both; margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #D2D2D2;}
+  #ca-state-questions-template-two .views-row-last .views-field-nothing {border: none;}
+	
+  /* Node Template Two */
+	#ca-state-question .field-field-ca-state-questions-image {float: left; margin-right: 5px;}
+  #ca-state-questions-template-two .views-field-teaser > p {margin-top: 0;}
+	
